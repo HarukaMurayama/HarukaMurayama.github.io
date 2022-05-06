@@ -9,5 +9,26 @@ body {
   text-align: center;
   border: solid 2px red;
   padding: 20px 10px;
-  margin: 20px 600px;
+  margin-left: 30%;
+  width: 40%;
+  margin-right: 30%;
+}
+.introduction {
+  text-align: center;
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.intro-photo {
+  width: 50%;
+  text-align: right;
+  margin-right: 100px;
+}
+.self-intro {
+  width: 50%;
+  text-align: left;
+  margin-left: 100px;
+}
+.photo1 {
+  width: 50%;
 }
