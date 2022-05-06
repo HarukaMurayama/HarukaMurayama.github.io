@@ -9,6 +9,7 @@ body {
   text-align: center;
   border: solid 2px red;
   padding: 20px 10px;
+  margin-top: 20px;
   margin-left: 30%;
   width: 40%;
   margin-right: 30%;
@@ -31,4 +32,12 @@ body {
 }
 .photo1 {
   width: 50%;
+}
+.containts {
+  text-align: center;
+}
+.containts h2 {
+  border-top: solid 2px black;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
